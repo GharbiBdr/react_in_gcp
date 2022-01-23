@@ -16,7 +16,7 @@
    - 'gcr.io/$PROJECT_ID/react:$COMMIT_SHA'
    - '--region'
    - 'us-central1'
-   - --platform"
+   - --platform
    -  'managed'
    - --port
    - '80'
